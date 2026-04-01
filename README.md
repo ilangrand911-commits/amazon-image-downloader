@@ -88,7 +88,7 @@ Unlike manual saving or unreliable tools, this extension provides a **fast, stab
 
 ---
 
-## 🛠️ Keywords (SEO)
+## 🛠️ Keywords 
 
 amazon video downloader, amazon image downloader, download amazon product images, amazon scraper tool, ecommerce tools, dropshipping tools, amazon media downloader
 
